@@ -1,0 +1,10 @@
+.container #theLightbox {
+    display: none !important; }  
+  
+  #theLightbox iframe {
+    width: 900px;
+    height: 500px; }
+  
+  .featherlight {
+      background: #000;
+      background: rgba(0,0,0,0.5);}
